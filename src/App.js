@@ -1,3 +1,15 @@
+/*
+ * Created on Saturday, 1st August 2020 11:59::39 pm
+ * @author: mtc-20
+ *  Coded on VS Code 2019
+ * ------
+ * Overview:
+ *  Taken from https://www.freecodecamp.org/news/getting-started-with-react-a-modern-project-based-guide-for-beginners-including-hooks-2/#creatingareactapp
+ * ------
+ * Last Modified: Sun Aug 02 2020
+ */
+
+
 import React, { useState, useEffect } from "react";
 import "./styles.css";
 
