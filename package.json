@@ -2,7 +2,7 @@
   "name": "my_first_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/mtc-20/my_first_react",
+  "homepage": "https://mtc-20.github.io/my_first_react/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
