@@ -1,6 +1,6 @@
 # My First React App
 
-Just putting this up in github as backup and for future reference.
+Just putting this up in github as backup and for future reference. You can view it here: [my_first_react_app](https://mtc-20.github.io/my_first_react/)
 
 **Taken from Chris Blakely's [article on freecodecamp][1].**
 
