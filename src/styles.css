@@ -20,4 +20,16 @@
     margin-left: 10px;
     margin-bottom: 10px;
   }
+
+  h1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 5vmin;
+    background-color: rgb(58, 152, 196);
+    border-radius: 10px;
+    width: 50%;
+    height: 10vmin;
+    margin-left: 30%;
+    box-shadow: 10px 10px 25px -16px rgba(0, 0, 0, 0.75);
+  }
   

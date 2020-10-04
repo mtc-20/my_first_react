@@ -6,7 +6,7 @@
  * Overview:
  *  Taken from https://www.freecodecamp.org/news/getting-started-with-react-a-modern-project-based-guide-for-beginners-including-hooks-2/#creatingareactapp
  * ------
- * Last Modified: Sun Aug 02 2020
+ * Last Modified: Sun Oct 04 2020
  */
 
 
@@ -76,7 +76,7 @@ const App = () => {
   const [contacts, setContacts] = useState([])
 
   useEffect(() => {
-    fetch("https://randomuser.me/api/?results=3")
+    fetch("https://randomuser.me/api/?results=5")
   .then(response => response.json())
   .then(data => {
     console.log(data);
@@ -89,6 +89,7 @@ const App = () => {
 
   return (
     <>
+        <h1>My First React App</h1>
     {contacts.map(contact => (
       <ContactCard
       avatar = {contact.picture.large}
